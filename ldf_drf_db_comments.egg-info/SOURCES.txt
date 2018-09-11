@@ -1,7 +1,0 @@
-README.md
-setup.py
-ldf_drf_db_comments/__init__.py
-ldf_drf_db_comments.egg-info/PKG-INFO
-ldf_drf_db_comments.egg-info/SOURCES.txt
-ldf_drf_db_comments.egg-info/dependency_links.txt
-ldf_drf_db_comments.egg-info/top_level.txt
