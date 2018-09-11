@@ -1,5 +1,5 @@
 # LDF-DRF-DB-Comments Readme
-[Living Documentation Framework](LiveDoc_Framework.md) - Django REST Framework - Postgresql Database Comments  
+[Living Documentation Framework](docs/ldf.md) - Django REST Framework - Postgresql Database Comments  
 _Extends the DRF Migrations feature to insert Database Table and Columns Descriptions from the model metadata._
 
 ## Usage
